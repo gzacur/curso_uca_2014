@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "Hola mundo"
+echo "Hola mundo, soy Guillermo"
+pwd
