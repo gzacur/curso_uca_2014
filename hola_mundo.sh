@@ -2,3 +2,4 @@
 
 echo "Hola mundo, soy Guillermo. que tal?"
 pwd
+date
