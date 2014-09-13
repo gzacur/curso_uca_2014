@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "Hola mundo, soy Guillermo"
+echo "Hola mundo, soy Guillermo. que tal?"
 pwd
